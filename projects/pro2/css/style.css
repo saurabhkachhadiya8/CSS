@@ -1,0 +1,174 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+.container{
+    width:1140px;
+    margin:0px auto;
+    
+}
+.main-box{
+    width:100%;
+    height:600px;
+    display:flex;
+    flex-wrap:wrap;
+    background-color:#FFF;
+    margin:10px 0;
+	align-content:center;
+   
+
+}
+.box1{
+    width:320px;
+    height:150px;
+    background-color:#34495f;
+    margin:40px 5px;
+    margin-left:86px ;
+}
+.box2{
+    width:320px;
+    height:150px;
+    background-color:#15a085;
+    margin:40px 5px;
+    
+}
+.box3{
+    width:320px;
+    height:150px;
+    background-color:#f39c13;
+    margin:40px 5px;
+}
+.box4{
+    width:320px;
+    height:150px;
+    background-color:#2980b9;
+    margin:40px 5px;
+    margin-left:86px;
+}
+.box5{
+    width:320px;
+    height:150px;
+    background-color:#e74c3d;
+    margin:40px 5px;
+}
+.box6{
+    width:320px;
+    height:150px;
+    background-color:#8e44ad;
+    margin:40px 5px;
+}
+.icon{
+    width:65px;
+    height:65px;
+    border-radius:100%;
+    background-color:#34495f;
+    border:2px solid white;
+    margin:0 auto;
+    position:relative;
+    top:-32px;
+    text-align:center;
+    line-height:60px;
+    color:white;
+    font-size:32px;
+}
+
+.box2 .icon{
+    width:65px;
+    height:65px;
+    border-radius:100%;
+    background-color:#15a085;
+    border:2px solid white;
+    margin:0 auto;
+    position:relative;
+    top:-32px;
+}
+.box3 .icon{
+    width:65px;
+    height:65px;
+    border-radius:100%;
+    background-color:#f39c13;
+    border:2px solid white;
+    margin:0 auto;
+    position:relative;
+    top:-32px;
+}
+.box4 .icon{
+    width:65px;
+    height:65px;
+    border-radius:100%;
+    background-color:#2980b9;
+    border:2px solid white;
+    margin:0 auto;
+    position:relative;
+    top:-32px;
+}
+.box5 .icon{
+    width:65px;
+    height:65px;
+    border-radius:100%;
+    background-color:#e74c3d;
+    border:2px solid white;
+    margin:0 auto;
+    position:relative;
+    top:-32px;
+}
+.box6 .icon{
+    width:65px;
+    height:65px;
+    border-radius:100%;
+    background-color:#8e44ad;
+    border:2px solid white;
+    margin:0 auto;
+    position:relative;
+    top:-32px;
+}
+
+
+img{
+    position:absolute;
+    width:100%;
+    margin:0 auto;
+    padding:10px;
+}
+p{
+    text-align:center;
+    font-size:20px;
+    color:white;
+    font-family:sans-serif;
+    position:relative;
+    top:-7px;
+}
+span{
+    font-size:25px ;
+    font-weight:500;
+}
+.bbox,.bbox2,.bbox3,.bbox4,.bbox5,.bbox6{
+    width:100%;
+    height:30px;
+    background-color:#2f4254;
+    position:relative;
+    bottom:-13px;
+    color:white;
+    text-align:center;
+    font-family:sans-serif;
+}
+.bbox2{
+    background-color:#129077;
+
+}
+.bbox3{
+    background-color:#da8c0f;
+
+}
+.bbox4{
+    background-color:#2473a6;
+}
+.bbox5{
+    background-color:#cf4436;
+
+}
+.bbox6{
+    background-color:#803d9b;
+
+}

@@ -1,0 +1,28 @@
+.box1, .box2, .box3, .box4, .box5, .box6, .box7, .box8{
+	width:200px;
+	height:200px;
+	float:left;
+	font-size:150px;
+	text-align:center;
+}
+.box1, .box3, .box5, .box7{
+	background-color:#dda976;
+	box-sizing:border-box;
+}
+.box2, .box4, .box6, .box8{
+	background-color:#443e3e;	
+	box-sizing:border-box;
+}
+.box{
+	border-style:double;
+	border-color:black;
+	border-width:30px;
+	width:1600px;
+	margin:200px auto;
+}
+.clear{
+	clear:both;
+}
+#id1, #id2, #id3, #id4, #id5, #id6, #id7, #id8, #id9, #id10, #id11, #id12, #id13, #id14, #id15, #id16{
+	color:white;
+}

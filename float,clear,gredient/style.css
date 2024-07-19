@@ -1,0 +1,155 @@
+.box{
+	width:100px;
+	height:100px;
+	background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
+	border-radius:50% 50% 0 50%;
+	float:left;
+}
+.box1{
+	width:100px;
+	height:100px;
+	background: linear-gradient(90deg, rgba(252,176,69,1) 0%, rgba(253,29,29,1) 50%, rgba(131,58,180,1) 100%);
+	border-radius:50% 50% 50% 0;
+	display:inline-block;
+}
+.clear{
+	clear:both;
+}
+.box2{
+	border-radius:50% 0 50% 50%;
+	width:100px;
+	height:100px;
+	background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
+	float:left;
+}
+.box3{
+	border-radius:0 50% 50% 50%;
+	width:100px;
+	height:100px;
+	background: linear-gradient(90deg, rgba(252,176,69,1) 0%, rgba(253,29,29,1) 50%, rgba(131,58,180,1) 100%);
+	display:inline-block;
+}
+
+
+
+
+
+
+.box4{
+	width:100px;
+	height:100px;
+	background: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(252,70,107,1) 100%);
+	border-radius:0 50% 0 50%;
+	float:left;
+}
+.box5{
+	width:100px;
+	height:100px;
+	background: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(252,70,107,1) 100%);
+	border-radius:50% 0 50% 0;
+	display:inline-block;
+}
+.clear{
+	clear:both;
+}
+.box6{
+	border-radius:50% 0 50% 0;
+	width:100px;
+	height:100px;
+	background: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(252,70,107,1) 100%);
+	float:left;
+}
+.box7{
+	border-radius:0 50% 0 50%;
+	width:100px;
+	height:100px;
+	background: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(252,70,107,1) 100%);
+	display:inline-block;
+}
+
+
+
+
+
+.boxa{
+	width:100px;
+	height:100px;
+	background: linear-gradient(135deg, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 49%, rgba(34,193,195,1) 51%, rgba(253,187,45,1) 100%);
+	border-radius:50% 0 50% 0;
+	float:left;
+}
+.boxb{
+	width:100px;
+	height:100px;
+	background: linear-gradient(45deg, rgba(253,187,45,1) 0%, rgba(34,193,195,1) 49%, rgba(253,187,45,1) 51%, rgba(34,193,195,1) 100%);
+	border-radius:0 50% 0 50%;
+	display:inline-block;
+}
+.clear{
+	clear:both;
+}
+.boxc{
+	border-radius:0 50% 0 50%;
+	width:100px;
+	height:100px;
+	background: linear-gradient(45deg, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 49%, rgba(34,193,195,1) 51%, rgba(253,187,45,1) 100%);
+	float:left;
+}
+.boxd{
+	border-radius:50% 0 50% 0;
+	width:100px;
+	height:100px;
+	background: linear-gradient(135deg, rgba(253,187,45,1) 0%, rgba(34,193,195,1) 49%, rgba(253,187,45,1) 51%, rgba(34,193,195,1) 100%);
+	display:inline-block;
+}
+
+
+
+
+
+.boxe{
+	width:100px;
+	height:100px;
+	background: radial-gradient(circle, rgba(63,251,246,1) 0%, rgba(0,15,140,1) 100%);
+	border-radius:50%;
+	float:left;
+}
+.boxf{
+	width:100px;
+	height:100px;
+	background: radial-gradient(circle, rgba(63,251,246,1) 0%, rgba(0,15,140,1) 100%);
+	border-radius:50%;
+	display:inline-block;
+}
+.clean{
+	clear:both;
+}
+.boxg{
+	border-radius:50%;
+	width:100px;
+	height:100px;
+	background: radial-gradient(circle, rgba(63,251,246,1) 0%, rgba(0,15,140,1) 100%);
+	float:left;
+}
+.boxh{
+	border-radius:50%;
+	width:100px;
+	height:100px;
+	background: radial-gradient(circle, rgba(63,251,246,1) 0%, rgba(0,15,140,1) 100%);
+	display:inline-block;
+}
+.box8{
+	border-width:2px;
+	border-color:black;
+	border-style:inset;
+	width:200px;
+	background-color:#1fc80f;
+	float:left;
+	display:inline-block;
+	margin:15px;
+}
+
+
+
+
+
